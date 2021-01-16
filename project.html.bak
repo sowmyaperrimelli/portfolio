@@ -1,0 +1,41 @@
+<html>
+ <head>
+ <link rel="stylesheet" href="css.css"></link>
+  <title>Web Development</title>
+ </head>
+ <body>
+ <div id="a1">
+ <em id="a2">PORTFOLIO</em>
+ </div>
+
+ 
+<img id="a3" src="about.jpg"></img>
+<p><em id="a4">Hello,</em></p>
+<p><em id="a5">A bit about me</em></p>
+<p id="a6">I'm Perimelli Sowmya</p>
+<p><em id="a7">E3 CSE from RGUKT BASAR</em></p>
+<p><em id="a8">Skills</em></p>
+<p><em id="a9">Programming Skills:C,Java,DS</em></p>
+
+<img id="a10" src="computer.png"></img>
+<p><em id="a11">Courses</em></p>
+<p><em id="a12">Fundamentals of Digital Marketing</em></p>
+<p><em id="a13">Python from NPTEL</em></p>
+
+<img id="a14" src="presentation.jpg"></img>
+<p><em id="a15">Projects</em></p>
+<p><em id="a16">Git,Maven Project from EPAM</em></p>
+<p><em id="a17">Working Model:Detection of Alcohol while Driving</em></p>
+<p><em id="a18">Certification</em></p>
+<p><em id="a19">Antahpragnya 2020 from RGUKT</em></p>
+<p><em id="a20">Digital Marketing</em></p>
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+
+ 
+ </body>
+</html>
